@@ -1,5 +1,5 @@
 package Arrays;
-
+//https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/
 public class RotateArray {
     public void rotate(int[] nums, int k) {
 
